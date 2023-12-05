@@ -1,0 +1,121 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 生成的包含文件。
+// 供 GrassPE.rc 使用
+//
+#define IDD_GRASSPE_DIALOG              102
+#define IDR_MAINFRAME                   128
+#define IDD_DIALOG_SECTIONTLB           130
+#define IDD_DIALOG_DATADIR              132
+#define IDD_DIALOG_EXPORT               134
+#define IDD_DIALOG_IMPORT               136
+#define IDD_DIALOG_RESOURCE             138
+#define IDD_DIALOG_RELOC                140
+#define IDD_DIALOG_TLS                  142
+#define IDD_DIALOG_DELAYIMP             144
+#define IDC_EDIT_FILEPATH               1000
+#define IDC_BUTTON_OPENFILE             1001
+#define IDC_EDIT_ENTRY                  1002
+#define IDC_EDIT_IMAGEBASE              1003
+#define IDC_EDIT_CODEBASE               1004
+#define IDC_EDITDATABASE                1005
+#define IDC_EDIT_IMAGESIZE              1006
+#define IDC_EDIT_HEADERSIZE             1007
+#define IDC_EDITSECTIONALIG             1008
+#define IDC_EDITFILEALIG                1009
+#define IDC_EDIT_SUBSYSTEM              1010
+#define IDC_EDIT_CHECKSUM               1011
+#define IDC_EDIT_FLAGS                  1012
+#define IDC_EDIT_MACHINE                1013
+#define IDC_EDIT_NUMSECTION             1014
+#define IDC_EDIT_TIMESTAMP              1015
+#define IDC_EDIT_SYMBOLPOINTER          1016
+#define IDC_EDIT_NUMSYMBOL              1017
+#define IDC_EDIT_SIZEOPTHEADER          1018
+#define IDC_EDIT_CHARACTER              1019
+#define IDC_BUTTON_SECTIONTABLE         1020
+#define IDC_BUTTON_DATADIRECT           1021
+#define IDC_BUTTON_EXIT                 1022
+#define IDC_LIST_SECTIONTLB             1023
+#define IDC_EDIT_RVAEXPORT              1026
+#define IDC_EDIT_SIZEEXPORT             1027
+#define IDC_EDIT_RVAIMPORT              1028
+#define IDC_EDIT_SIZEIMPORT             1029
+#define IDC_EDIT_RVARES                 1030
+#define IDC_EDIT_SIZERES                1031
+#define IDC_EDIT_RVAEXCEP               1032
+#define IDC_EDIT_SIZEEXCEP              1033
+#define IDC_EDIT_RVASECUR               1034
+#define IDC_EDIT_SIZESECUR              1035
+#define IDC_EDIT_RVARELOC               1036
+#define IDC_EDIT_SIZERELOC              1037
+#define IDC_EDIT_RVADBG                 1038
+#define IDC_EDIT_SIZEDBG                1039
+#define IDC_BUTTON_EXPORT               1040
+#define IDC_BUTTON_IMPORT               1041
+#define IDC_EDIT_EXPOFFSET              1041
+#define IDC_EDIT_RVACPR                 1042
+#define IDC_EDIT_EXPCHARACT             1042
+#define IDC_EDIT_SIZECPR                1043
+#define IDC_EDIT_BASIC                  1043
+#define IDC_EDIT_RVATLS                 1044
+#define IDC_STATIC_BASIC                1044
+#define IDC_EDIT_SIZETLS                1045
+#define IDC_EDIT_NAMERVA                1045
+#define IDC_BUTTON_RES                  1046
+#define IDC_EDIT_NAMESTR                1046
+#define IDC_BUTTON_RELOC                1047
+#define IDC_EDIT_NUMFUNC                1047
+#define IDC_EDIT_RVACONFIG              1048
+#define IDC_EDIT_NUMFUNCNAME            1048
+#define IDC_EDIT_SIZECONFIG             1049
+#define IDC_EDIT_ADDFUNC                1049
+#define IDC_EDIT_RVAEXPORT21            1050
+#define IDC_EDIT_SIZECOM                1050
+#define IDC_EDIT_ADDFUNCNAME            1050
+#define IDC_EDIT_RVACOM                 1051
+#define IDC_EDIT_ADDFUNCORDINAL         1051
+#define IDC_EDIT_RVABOUNDIMP            1052
+#define IDC_LIST_EXPORTINFO             1052
+#define IDC_EDIT_SIZEBOUNDIMP           1053
+#define IDC_LIST_IMPORTINFO             1053
+#define IDC_EDIT_RVAIAT                 1054
+#define IDC_LIST_THUNKINFO              1054
+#define IDC_EDIT_SIZEIAT                1055
+#define IDC_EDIT_ALLTHUNK               1055
+#define IDC_EDIT_SIZENOUSE              1056
+#define IDC_TREE1                       1056
+#define IDC_TREE_RES                    1056
+#define IDC_EDIT_RVANOUSE               1057
+#define IDC_EDIT_NUMNAME                1057
+#define IDC_EDIT_SIZEDELAYIMP           1058
+#define IDC_EDIT_NUMID                  1058
+#define IDC_EDIT_RVADELAYIMP            1059
+#define IDC_EDIT_NUMNAMESELECT          1059
+#define IDC_LIST_SECTIONINFO            1059
+#define IDC_EDIT_RVAGLOBALPTR           1060
+#define IDC_EDIT_NUMIDSELECT            1060
+#define IDC_LIST_BLOCKINFO              1060
+#define IDC_EDIT_STARTVA                1060
+#define IDC_EDIT_SIZEGLOBALPTR          1061
+#define IDC_EDIT_RESRVA                 1061
+#define IDC_EDIT_ENDVA                  1061
+#define IDC_LIST_DELAYIMP               1061
+#define IDC_EDIT_RESOFFSET              1062
+#define IDC_BUTTON_TLS                  1062
+#define IDC_EDIT_ADDINDEXVA             1062
+#define IDC_BUTTON_DELAYIMP             1063
+#define IDC_EDIT_CALLBACKVA             1063
+#define IDC_EDIT_RESSIZE                1064
+#define IDC_EDIT_ZEROFILL               1064
+#define IDC_EDIT_CHARACT                1065
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        147
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1062
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
